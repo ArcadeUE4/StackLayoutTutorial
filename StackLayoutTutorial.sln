@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial.Android", "StackLayoutTutorial\StackLayoutTutorial.Android\StackLayoutTutorial.Android.csproj", "{67F3D6A9-C159-455C-A381-1496AA6DA179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackLayoutTutorial", "StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial.csproj", "{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F3D6A9-C159-455C-A381-1496AA6DA179}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3CC6D6-66B1-46E7-B4C2-1E6C3F023398}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A98A4E-E664-4C8D-B867-6FA4A2C7FDFA}
+	EndGlobalSection
+EndGlobal
